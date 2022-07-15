@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NDP Database</string>
+    <string name="title">Song Title</string>
+    <string name="singers">Singers</string>
+    <string name="year">Year</string>
+    <string name="insert">INSERT</string>
+    <string name="showlist">SHOW LIST</string>
+    <string name="stars">Stars</string>
+    <string name="show">SHOW ALL SONGS WITH 5 STARS</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+</resources>
